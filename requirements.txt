@@ -1,0 +1,13 @@
+# Web framework and server
+flask
+gunicorn
+
+# Google Cloud and Database
+google-cloud-aiplatform
+neo4j
+
+# Data validation
+pydantic
+flask-cors
+dotenv
+pydantic_ai
